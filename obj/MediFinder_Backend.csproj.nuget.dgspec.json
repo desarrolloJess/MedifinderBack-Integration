@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jessy\\Documents\\IDGS903\\Repositorios\\MediFinder_Backend\\MediFinder_Backend\\MediFinder_Backend.csproj": {}
+    "C:\\Users\\lreri\\Documents\\Nueva carpeta\\MedifinderBack-Integration\\MediFinder_Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jessy\\Documents\\IDGS903\\Repositorios\\MediFinder_Backend\\MediFinder_Backend\\MediFinder_Backend.csproj": {
+    "C:\\Users\\lreri\\Documents\\Nueva carpeta\\MedifinderBack-Integration\\MediFinder_Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessy\\Documents\\IDGS903\\Repositorios\\MediFinder_Backend\\MediFinder_Backend\\MediFinder_Backend.csproj",
+        "projectUniqueName": "C:\\Users\\lreri\\Documents\\Nueva carpeta\\MedifinderBack-Integration\\MediFinder_Backend.csproj",
         "projectName": "MediFinder_Backend",
-        "projectPath": "C:\\Users\\jessy\\Documents\\IDGS903\\Repositorios\\MediFinder_Backend\\MediFinder_Backend\\MediFinder_Backend.csproj",
-        "packagesPath": "C:\\Users\\jessy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessy\\Documents\\IDGS903\\Repositorios\\MediFinder_Backend\\MediFinder_Backend\\obj\\",
+        "projectPath": "C:\\Users\\lreri\\Documents\\Nueva carpeta\\MedifinderBack-Integration\\MediFinder_Backend.csproj",
+        "packagesPath": "C:\\Users\\lreri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lreri\\Documents\\Nueva carpeta\\MedifinderBack-Integration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jessy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lreri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
